@@ -52,4 +52,4 @@ The project will run on http://localhost:3000/ 🚀
 📜 License
 This project is open-source and free to use.
 
-🔗 GitHub Repository: [MY GitHub Repo Link]
+🔗 Live - https://real-estate-web-react.pages.dev/
